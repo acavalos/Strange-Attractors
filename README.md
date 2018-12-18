@@ -13,6 +13,7 @@ Zooming and translating the image can be a little finicky.
 **'mwheelDOWN':** Zoom out  
 **'r':** Reset background  
 **'m':** Change Mode  
+**'n':** Generate New Polynomial  
 
 ## Mode  
 The default mode has thousands of low alpha dust particles moving chaotically. As particles land 
